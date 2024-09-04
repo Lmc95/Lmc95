@@ -1,6 +1,6 @@
 <h1 align="center"> Hola, soy Lucas 👋</h1>
 
-<a target="_blank" href="#"><img src="#"/></a>
+<a target="_blank" href="#"><img src="https://raw.githubusercontent.com/Lmc95/Lmc95/main/bg_lmc_frontend.png"/></a>
 
 <p align="center">
 	<a href="https://github.com/Lmc95">
